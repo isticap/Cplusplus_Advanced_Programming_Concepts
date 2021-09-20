@@ -1,3 +1,0 @@
-﻿  Bank.cpp
-C:\Users\astip\Desktop\Bank\Bank.cpp(31,27): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
-  Bank.vcxproj -> C:\Users\astip\Desktop\Bank\Debug\Bank.exe
