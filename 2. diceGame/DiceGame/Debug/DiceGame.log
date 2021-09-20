@@ -1,0 +1,4 @@
+﻿  DiceGame.cpp
+C:\Users\APC\Desktop\DiceGame\DiceGame.cpp(28,29): warning C4244: '=': conversion from 'time_t' to 'double', possible loss of data
+C:\Users\APC\Desktop\DiceGame\DiceGame.cpp(36,19): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  DiceGame.vcxproj -> C:\Users\APC\Desktop\DiceGame\Debug\DiceGame.exe

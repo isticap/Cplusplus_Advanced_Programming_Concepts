@@ -1,0 +1,4 @@
+﻿  arraytools.cpp
+  main.cpp
+E:\onedrive\OneDrive - University of Pittsburgh\Semester VI\6. CS0047_advancedProgrammingConceptsLAB\5. arraysAndMultipleFiles\main.cpp(14,16): error C2676: binary '<': 'std::basic_ostream<char,std::char_traits<char>>' does not define this operator or a conversion to a type acceptable to the predefined operator
+  Generating Code...

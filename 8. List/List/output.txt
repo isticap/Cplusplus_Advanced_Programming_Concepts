@@ -1,0 +1,108 @@
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 3
+Enter 0 for ascending or 1 for descending: 0
+nothing to print
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 2
+enter ID # you would like deleted: 123
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: 123
+Enter firstname: Hank
+Enter lastname: Chigla
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 2
+enter ID # you would like deleted: 123
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: 567
+Enter firstname: Tom
+Enter lastname: Smith
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: 789
+Enter firstname: Barnabas
+Enter lastname: Ansy
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 2
+enter ID # you would like deleted: 789
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: 111
+Enter firstname: Joe
+Enter lastname: Burns
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: 111
+Enter firstname: Vicktor
+Enter lastname: Bosco
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: 13X3
+Enter firstname: Bob
+Enter lastname: Cat
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 2
+enter ID # you would like deleted: 13X3
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: 334
+Enter firstname: Yaris
+Enter lastname: Maggle
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: A1167
+Enter firstname: Bert
+Enter lastname: Sase
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: D223
+Enter firstname: Bernadette
+Enter lastname: Giggly
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: F4
+Enter firstname: Anita
+Enter lastname: Raise
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: 6KJ
+Enter firstname: Superfly
+Enter lastname: Snuka
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 2
+enter ID # you would like deleted: 6KJ
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: aaa
+Enter firstname: bbb
+Enter lastname: ccc
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 1
+Enter ID number: ZZZ
+Enter firstname: ZZZ
+Enter lastname: ZZZ
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 3
+Enter 0 for ascending or 1 for descending: 1
+ZZZ ZZZ ZZZ 00B15528
+00B21BC0 00000000
+567 Tom Smith 00B21A00
+00B15528 00B21BC0
+A1167 Bert Sase 00B21AB0
+00B21A00 00B15528
+F4 Anita Raise 00B1AB10
+00B21AB0 00B21A00
+334 Yaris Maggle 00B21A58
+00B1AB10 00B21AB0
+D223 Bernadette Giggly 00B21B38
+00B21A58 00B1AB10
+aaa bbb ccc 00B15668
+00B21B38 00B21A58
+111 Joe Burns 00000000
+00B15668 00B21B38
+
+What would you like to do?  [1]Add Item  [2]Delete Item  [3]Print List  [0]Quit: 0
+
+C:\Users\APC\OneDrive - University of Pittsburgh\Semester VI\6. CS0047_advancedProgrammingConceptsLAB\8. List\List\Debug\List.exe (process 8248) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

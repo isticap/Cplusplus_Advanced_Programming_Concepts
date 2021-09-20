@@ -1,0 +1,24 @@
+
+Test 1 0
+Test 2 -78
+Test 3 -64
+Test 4 0
+Test 5 0
+Test 6 0
+Test 7 0  5
+Test 8 0
+Test 9 -62
+Test 10 0
+Test 11 -62
+5 6 7 20
+Test 12 0
+20 7 6 5
+Test 13 0  20
+Test 14 0  20
+42 7 6 5
+Test 15 0  20
+294 42 7 6 5
+
+E:\onedrive\OneDrive - University of Pittsburgh\Semester VI\6. CS0047_advancedProgrammingConceptsLAB\4. cppProgramsWithMultipleFiles\lab4\Debug\lab4.exe (process 16868) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

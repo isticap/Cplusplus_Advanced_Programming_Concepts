@@ -1,0 +1,26 @@
+enter string 1:
+I love Pep9 more than bacon.
+enter string 2:
+42 + 8 is not 1008.
+enter string 3:
+A cat loves her owner.
+
+I love Pep9 more than bacon.
+42 + 8 is not 1008.
+A cat loves her owner.
+
+I love Pep9 more than bacon.
+A cat loves her owner.
+string was found in the above strings 2 times.
+
+42 + 8 is not 1008.
+A cat loves her owner.
+I love Pep9 more than bacon.
+
+displaying lengths of each string:
+19
+22
+28
+
+displaying total alpha characters found:
+43

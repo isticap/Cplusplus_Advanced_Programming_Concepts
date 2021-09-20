@@ -1,0 +1,155 @@
+this program will calculate the minimum number of bills for the amount entered
+enter a dollar amount: 100
+1: hundred(s)
+0: fiftie(s)
+0: twentie(s)
+0: ten(s)
+0: five(s)
+0: one(s)
+0: quarter(s)
+0: dime(s)
+0: nickel(s)
+0: pennies(s)
+
+
+enter a dollar amount:
+100.00
+1: hundred(s)
+0: fiftie(s)
+0: twentie(s)
+0: ten(s)
+0: five(s)
+0: one(s)
+0: quarter(s)
+0: dime(s)
+0: nickel(s)
+0: pennies(s)
+
+
+enter a dollar amount:
+99.99
+0: hundred(s)
+1: fiftie(s)
+2: twentie(s)
+0: ten(s)
+1: five(s)
+4: one(s)
+3: quarter(s)
+2: dime(s)
+0: nickel(s)
+4: pennies(s)
+
+
+enter a dollar amount:
+99.98
+0: hundred(s)
+1: fiftie(s)
+2: twentie(s)
+0: ten(s)
+1: five(s)
+4: one(s)
+3: quarter(s)
+2: dime(s)
+0: nickel(s)
+3: pennies(s)
+
+
+enter a dollar amount:
+99.95
+0: hundred(s)
+1: fiftie(s)
+2: twentie(s)
+0: ten(s)
+1: five(s)
+4: one(s)
+3: quarter(s)
+2: dime(s)
+0: nickel(s)
+0: pennies(s)
+
+
+enter a dollar amount:
+99.90
+0: hundred(s)
+1: fiftie(s)
+2: twentie(s)
+0: ten(s)
+1: five(s)
+4: one(s)
+3: quarter(s)
+1: dime(s)
+1: nickel(s)
+0: pennies(s)
+
+
+enter a dollar amount:
+0
+0: hundred(s)
+0: fiftie(s)
+0: twentie(s)
+0: ten(s)
+0: five(s)
+0: one(s)
+0: quarter(s)
+0: dime(s)
+0: nickel(s)
+0: pennies(s)
+
+
+enter a dollar amount:
+0.00
+0: hundred(s)
+0: fiftie(s)
+0: twentie(s)
+0: ten(s)
+0: five(s)
+0: one(s)
+0: quarter(s)
+0: dime(s)
+0: nickel(s)
+0: pennies(s)
+
+
+enter a dollar amount:
+0.01
+0: hundred(s)
+0: fiftie(s)
+0: twentie(s)
+0: ten(s)
+0: five(s)
+0: one(s)
+0: quarter(s)
+0: dime(s)
+0: nickel(s)
+1: pennies(s)
+
+
+enter a dollar amount:
+0.05
+0: hundred(s)
+0: fiftie(s)
+0: twentie(s)
+0: ten(s)
+0: five(s)
+0: one(s)
+0: quarter(s)
+0: dime(s)
+1: nickel(s)
+0: pennies(s)
+
+
+enter a dollar amount:
+20.05
+0: hundred(s)
+0: fiftie(s)
+1: twentie(s)
+0: ten(s)
+0: five(s)
+0: one(s)
+0: quarter(s)
+0: dime(s)
+1: nickel(s)
+0: pennies(s)
+
+
+enter a dollar amount:

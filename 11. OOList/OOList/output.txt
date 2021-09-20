@@ -1,0 +1,197 @@
+1992 Hank Chigla
+
+------  Rec 1 2 3 -----------
+888a Jerry Malega
+
+1992 Hank Chigla
+
+888a Jerry Malega
+------ Rec 3-----------
+xxxx Mr Beepers
+11---------- mylist ----------
+1992 Hank Chigla 00000000
+013E5910 013EB340
+888a Jerry Malega 013E5910
+013EB340 00000000
+01#######  mylist ########
+1992 Hank Chigla 00000000
+013E5910 013EB340
+888a Jerry Malega 013E5910
+013EB340 013F0D18
+16 Larry Orlando 013EB340
+013F0D18 00000000
+###### myotherlist ########
+1992 Hank Chigla 00000000
+013E6FE0 013E5A20
+888a Jerry Malega 013E6FE0
+013E5A20 00000000
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 1
+
+Enter ID AABBCC
+
+First Name Joe
+
+Last Name Black
+
+Success!
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 1
+
+Enter ID AABBCC
+
+First Name Ernie
+
+Last Name Bert
+
+Item failed to be added
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 1
+
+Enter ID DDEE
+
+First Name Big
+
+Last Name Bird
+
+Success!
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 3
+Enter order 0 - Ascending, 1 - Descending
+0
+DDEE Big Bird 00000000
+013F1E50 013F1DA0
+AABBCC Joe Black 013F1E50
+013F1DA0 013E5910
+1992 Hank Chigla 013F1DA0
+013E5910 013EB340
+888a Jerry Malega 013E5910
+013EB340 013F0D18
+16 Larry Orlando 013EB340
+013F0D18 00000000
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 3
+Enter order 0 - Ascending, 1 - Descending
+1
+16 Larry Orlando 013EB340
+013F0D18 00000000
+888a Jerry Malega 013E5910
+013EB340 013F0D18
+1992 Hank Chigla 013F1DA0
+013E5910 013EB340
+AABBCC Joe Black 013F1E50
+013F1DA0 013E5910
+DDEE Big Bird 00000000
+013F1E50 013F1DA0
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 3
+Enter order 0 - Ascending, 1 - Descending
+0
+DDEE Big Bird 00000000
+013F1E50 013F1DA0
+AABBCC Joe Black 013F1E50
+013F1DA0 013E5910
+1992 Hank Chigla 013F1DA0
+013E5910 013EB340
+888a Jerry Malega 013E5910
+013EB340 013F0D18
+16 Larry Orlando 013EB340
+013F0D18 00000000
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 3
+Enter order 0 - Ascending, 1 - Descending
+1
+16 Larry Orlando 013EB340
+013F0D18 00000000
+888a Jerry Malega 013E5910
+013EB340 013F0D18
+1992 Hank Chigla 013F1DA0
+013E5910 013EB340
+AABBCC Joe Black 013F1E50
+013F1DA0 013E5910
+DDEE Big Bird 00000000
+013F1E50 013F1DA0
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 2
+
+Enter id :ZZZZZ
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 2
+
+Enter id :ERT342
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 1
+
+Enter ID GERBE
+
+First Name Pat
+
+Last Name Zeb
+
+Success!
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 1
+
+Enter ID GERBE
+
+First Name Pat
+
+Last Name Zeb
+
+Item failed to be added
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 1
+
+Enter ID chicky
+
+First Name Best
+
+Last Name Won
+
+Success!
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 2
+
+Enter id :5671A
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 3
+Enter order 0 - Ascending, 1 - Descending
+0
+DDEE Big Bird 00000000
+013F1E50 013F1DA0
+AABBCC Joe Black 013F1E50
+013F1DA0 013E5910
+1992 Hank Chigla 013F1DA0
+013E5910 013EB340
+888a Jerry Malega 013E5910
+013EB340 013F0D18
+16 Larry Orlando 013EB340
+013F0D18 013F2CE0
+chicky Best Won 013F0D18
+013F2CE0 013F2C88
+GERBE Pat Zeb 013F2CE0
+013F2C88 00000000
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 3
+Enter order 0 - Ascending, 1 - Descending
+1
+GERBE Pat Zeb 013F2CE0
+013F2C88 00000000
+chicky Best Won 013F0D18
+013F2CE0 013F2C88
+16 Larry Orlando 013EB340
+013F0D18 013F2CE0
+888a Jerry Malega 013E5910
+013EB340 013F0D18
+1992 Hank Chigla 013F1DA0
+013E5910 013EB340
+AABBCC Joe Black 013F1E50
+013F1DA0 013E5910
+DDEE Big Bird 00000000
+013F1E50 013F1DA0
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 0
+
+D:\onedrive\OneDrive - University of Pittsburgh\Semester VI\6. CS0047_advancedProgrammingConceptsLAB\11. OOList\OOList\Debug\OOList.exe (process 615656) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
